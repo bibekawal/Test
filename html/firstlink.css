@@ -1,0 +1,29 @@
+
+}
+#awal{
+    color: red;
+    background-color: cornflowerblue;
+}
+#dharane{
+    color: green;
+    background-color: antiquewhite;
+    border: 3px solid red; 
+}
+.xyz{
+    text-align: center;
+    color: red; 
+    background-color: pink;
+}
+.abc{
+    color: blueviolet;
+    background-color: aqua;
+}
+li strong{
+    color: green;
+}
+#ad li.important strong{
+    text-decoration: underline; 
+    color: red;
+    background-color: black;
+
+}

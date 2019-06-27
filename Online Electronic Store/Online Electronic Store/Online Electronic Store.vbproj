@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{DDEF2024-94FC-4133-85B3-F256380FFAC8}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Online_Electronic_Store</RootNamespace>
+    <AssemblyName>Online Electronic Store</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Online Electronic Store.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Online Electronic Store.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Cs\Style.css" />
+    <Content Include="Home.html" />
+    <Content Include="Images\000095047-1.jpg" />
+    <Content Include="Images\0003800000120_0600.png" />
+    <Content Include="Images\1-2-iphone-png-picture-png-clipart.png" />
+    <Content Include="Images\12210608_nestle_sweetened_condensed_milk_18_x_395g.png" />
+    <Content Include="Images\15352-300x300.png" />
+    <Content Include="Images\1_VR.png" />
+    <Content Include="Images\2-2-iphone-png-picture.png" />
+    <Content Include="Images\20825249001_front_a01.png" />
+    <Content Include="Images\38_Printers.png" />
+    <Content Include="Images\3_Iron.png" />
+    <Content Include="Images\4-2-iphone-png-picture-png-image.png" />
+    <Content Include="Images\434_Refrigerator.png" />
+    <Content Include="Images\435_Refrigerator.png" />
+    <Content Include="Images\43_Refrigerator.png" />
+    <Content Include="Images\43_Washing_Machine.png" />
+    <Content Include="Images\4_VR.png" />
+    <Content Include="Images\53_Drone.png" />
+    <Content Include="Images\6-video-camera-png-image.png" />
+    <Content Include="Images\6706669241496403224.jpg" />
+    <Content Include="Images\74_Headphones.png" />
+    <Content Include="Images\83_Spekers.png" />
+    <Content Include="Images\938_Sony_Laptops.png" />
+    <Content Include="Images\b.png" />
+    <Content Include="Images\bag2.png" />
+    <Content Include="Images\banner_12.jpg" />
+    <Content Include="Images\big-sale-offers.png" />
+    <Content Include="Images\Black_Vacuum_Cleaner_PNG_Clipart-629.png" />
+    <Content Include="Images\Camera.png" />
+    <Content Include="Images\Canon-EF-24-105mm-f-4L-IS-II-USM-Side_tcm14-1451451.png" />
+    <Content Include="Images\Canon_Camera.png" />
+    <Content Include="Images\cruzer-force-usb-flash-drive-250x250.png" />
+    <Content Include="Images\Drone.png" />
+    <Content Include="Images\eggs-11528350931egreshkuji.png" />
+    <Content Include="Images\Eggs-PNG-Clipart.png" />
+    <Content Include="Images\egg_PNG40781.png" />
+    <Content Include="Images\frosties.png" />
+    <Content Include="Images\gold-winner-refined-sunflower-oil1-v-1-ltr-500x500.png" />
+    <Content Include="Images\gowardhan-ghee-jar-v-500-ml.png" />
+    <Content Include="Images\grocery-items-png-supermarket-coupons-png-image-12852-366.png" />
+    <Content Include="Images\Grocery-PNG-Transparent-HD-Photo.png" />
+    <Content Include="Images\Grocery-Slider.jpg" />
+    <Content Include="Images\grocery2.png" />
+    <Content Include="Images\Hand-Blender-Mixer-PNG-Image1.png" />
+    <Content Include="Images\Home_Theaters.png" />
+    <Content Include="Images\if_call_322424.png" />
+    <Content Include="Images\if_List_Text_Menu_Numbers_String_Burger_1329080.png" />
+    <Content Include="Images\images.jpg" />
+    <Content Include="Images\jersey-toned-milk-curd-v-500-g.png" />
+    <Content Include="Images\Laptop.png" />
+    <Content Include="Images\logo_for_shopping_smart_cart_by_mariamhossam12122012-d96ay1y.png" />
+    <Content Include="Images\main-qimg-196d9251d35a8510bab0ecf148acc135.png" />
+    <Content Include="Images\market-fresh-products-online-grocery-tempura-cooking-oil-01_grande.png" />
+    <Content Include="Images\NGM-78295.png" />
+    <Content Include="Images\NGM-Armanti-sweet Condensed Milk-390g-variant.png" />
+    <Content Include="Images\Nikon_Camera.png" />
+    <Content Include="Images\oil.png" />
+    <Content Include="Images\Orbit_Watch.png" />
+    <Content Include="Images\p1b8h5v89r1cjfo7ck7u13tp005.png" />
+    <Content Include="Images\Philips_Trimmers.png" />
+    <Content Include="Images\rice-hd-png-enriched-rice-450.png" />
+    <Content Include="Images\SanDisk-USB-Flash-Pen-Drive-PNG-image.png" />
+    <Content Include="Images\SardinesTomatoOval215g.png" />
+    <Content Include="Images\slider-01.png" />
+    <Content Include="Images\slider-grocery.jpg" />
+    <Content Include="Images\slider2.jpg" />
+    <Content Include="Images\Sony_Headphones.png" />
+    <Content Include="Images\special-offer-sale-paper-tag-banner-design-poster-flyer-white-background-creative-illustration-76365773.jpg" />
+    <Content Include="Images\tata-salt-v-1-kg-1.png" />
+    <Content Include="Images\Untitled-1.jpg" />
+    <Content Include="Images\Untitled-2.jpg" />
+    <Content Include="Images\Untitled-3.jpg" />
+    <Content Include="Images\Website_Logo.png" />
+    <Content Include="Images\y37-high-figure.png" />
+    <Content Include="js\jquery-3.2.1.min.js" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49740</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49740/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,14 @@
+{% extends "shop/base.html" %}
+{% load bootstrap3 %}
+{% block carasual %}{% endblock %}
+{% block content %}
+<h1>SIGNUP HERE!!</h1>
+<div class="row">
+    <div class="col-md-12">
+        <form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="Submit" value="signup" >
+        </form>
+        </body>
+</html>

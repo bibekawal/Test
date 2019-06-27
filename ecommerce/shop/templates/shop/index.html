@@ -1,0 +1,17 @@
+{% if user.is_authenticated %}
+   <p>WELCOME {{ user.welcome }} !
+    {% else %}
+    <a href="login">login</a>
+   {% endif %}
+<br><br>
+Products are:
+{% for p in products %}
+  {{ p.title }} <br>
+{% endfor %}
+
+<br><br>
+Categories are:
+{% for c in categories %}
+{{ c.title }}<br>
+{% endfor %}
+

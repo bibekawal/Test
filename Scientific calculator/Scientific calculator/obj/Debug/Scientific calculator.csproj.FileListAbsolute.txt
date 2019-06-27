@@ -1,0 +1,51 @@
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\obj\Debug\Scientific_calculator.Form1.resources
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\obj\Debug\Scientific_calculator.Properties.Resources.resources
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\bin\Debug\Scientific calculator.exe.config
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\bin\Debug\Scientific calculator.exe
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\bin\Debug\Scientific calculator.pdb
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.exe
+C:\Users\Admin\source\repos\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.pdb
+F:\Scientific calculator\Scientific calculator\bin\Debug\Scientific calculator.exe.config
+F:\Scientific calculator\Scientific calculator\obj\Debug\Interop.MSScriptControl.dll
+F:\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csproj.ResolveComReference.cache
+F:\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.exe
+F:\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.pdb
+F:\Scientific calculator\Scientific calculator\bin\Debug\Scientific calculator.exe
+F:\Scientific calculator\Scientific calculator\bin\Debug\Scientific calculator.pdb
+F:\Scientific calculator\Scientific calculator\bin\Debug\mscorlib.dll
+F:\Scientific calculator\Scientific calculator\bin\Debug\normidna.nlp
+F:\Scientific calculator\Scientific calculator\bin\Debug\normnfc.nlp
+F:\Scientific calculator\Scientific calculator\bin\Debug\normnfd.nlp
+F:\Scientific calculator\Scientific calculator\bin\Debug\normnfkc.nlp
+F:\Scientific calculator\Scientific calculator\bin\Debug\normnfkd.nlp
+F:\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csprojResolveAssemblyReference.cache
+F:\Scientific calculator\Scientific calculator\obj\Debug\Scientific_calculator.Form1.resources
+F:\Scientific calculator\Scientific calculator\obj\Debug\Scientific_calculator.Properties.Resources.resources
+F:\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Scientific calculator\Scientific calculator\bin\Debug\Scientific calculator.exe.config
+C:\Users\user\Desktop\Scientific calculator\Scientific calculator\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\user\Desktop\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.exe
+C:\Users\user\Desktop\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.pdb
+D:\projects\Scientific calculator\Scientific calculator\bin\Debug\Scientific calculator.exe.config
+D:\projects\Scientific calculator\Scientific calculator\obj\Debug\Interop.MSScriptControl.dll
+D:\projects\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csproj.ResolveComReference.cache
+D:\projects\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.exe
+D:\projects\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.pdb
+D:\projects\Scientific calculator\Scientific calculator\bin\Debug\Scientific calculator.exe
+D:\projects\Scientific calculator\Scientific calculator\bin\Debug\Scientific calculator.pdb
+D:\projects\Scientific calculator\Scientific calculator\bin\Debug\mscorlib.dll
+D:\projects\Scientific calculator\Scientific calculator\bin\Debug\normidna.nlp
+D:\projects\Scientific calculator\Scientific calculator\bin\Debug\normnfc.nlp
+D:\projects\Scientific calculator\Scientific calculator\bin\Debug\normnfd.nlp
+D:\projects\Scientific calculator\Scientific calculator\bin\Debug\normnfkc.nlp
+D:\projects\Scientific calculator\Scientific calculator\bin\Debug\normnfkd.nlp
+D:\projects\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csprojResolveAssemblyReference.cache
+D:\projects\Scientific calculator\Scientific calculator\obj\Debug\Scientific_calculator.Form1.resources
+D:\projects\Scientific calculator\Scientific calculator\obj\Debug\Scientific_calculator.Properties.Resources.resources
+D:\projects\Scientific calculator\Scientific calculator\obj\Debug\Scientific calculator.csproj.GenerateResource.Cache
